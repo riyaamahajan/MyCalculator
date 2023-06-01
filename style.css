@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Poppins:wght@100&display=swap');
+html,body{
+    font-family: 'Poppins', sans-serif;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 56px;
+    background: rgb(135, 225, 245);
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    width: 253px;
+    font-size: 23px;
+    margin: 0;
+    border: 2px solid black;
+    padding: 10px 0 ;
+    border-radius: 5px;
+    background: rgb(234, 225, 220);
+}
+.container{
+    background-color: rgba(220, 195, 104, 0.516);
+    border-radius: 8px;
+}
